@@ -40,4 +40,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | #
-            martinezcaro92/practica_cicd:latest
+            alex1277/practica_cicd:latest
